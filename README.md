@@ -77,6 +77,7 @@ python train_resnet50_cosine_annealing.py
 - **Scheduler:** Cosine Annealing
 - **Batch size:** 256
 - **Maximum Number of epochs planned:** 50
+- **Total training time:** ~72 hours
 
 
 # Training Logs 
